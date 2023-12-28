@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Avinash</h1>
-<h3 align="center">Welcome to my page! Welcome to my page! I'm Avinash, DevOps Engineer from Hyderabad, India, currently living in Kitchener, Canada.</h3>
+<h3 align="center">I'm a DevOps Engineer from Hyderabad, India, currently living in Kitchener, Canada. I have expertise in most of the DevOps tools and AWS cloud.</h3>
 
 <p align="left"> <a href="https://twitter.com/avinash__50" target="blank"><img src="https://img.shields.io/twitter/follow/avinash__50?logo=twitter&style=for-the-badge" alt="avinash__50" /></a> </p>
 
