@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Avinash</h1>
-<h3 align="center">I'm a DevOps Engineer from Hyderabad, India, currently living in Kitchener, Canada. I have expertise in most of the DevOps tools and AWS cloud.</h3>
+<h3 align="center">I'm a DevOps Engineer currently living in Kitchener, Canada. I have expertise in most of the DevOps tools and AWS cloud.</h3>
 
 - 📫 How to reach me **cavinashreddy97@gmail.com**
 
