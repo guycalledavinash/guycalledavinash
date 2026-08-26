@@ -1,30 +1,21 @@
-<h1 align="center">Hi, I'm Avinash 👋</h1>
-
 <p align="center">
-  <strong>Cloud Engineer focused on networking, observability, and Kubernetes.</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Avinash+%7C+Cloud+Engineer;Networking+%C2%B7+Observability+%C2%B7+Kubernetes;Automating+reliable+cloud+platforms" alt="Typing introduction" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/avinash97/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://hashnode.com/@guycalledavinash"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
-  <a href="mailto:cavinashreddy97@gmail.com"><img src="https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/avinash97/"><img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://hashnode.com/@guycalledavinash"><img src="https://img.shields.io/badge/Hashnode-2563EB?style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
+  <a href="mailto:cavinashreddy97@gmail.com"><img src="https://img.shields.io/badge/Email-38BDF8?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-## About me
+<p align="center">
+  <img src="assets/cloud-ops-terminal.svg" width="100%" alt="Cloud operations terminal profile for Avinash" />
+</p>
 
-I am a Cloud Engineer with over four years of DevOps and cloud-engineering experience. I solve delivery and infrastructure bottlenecks, improve operational efficiency, and work effectively across teams to deliver reliable platforms.
+## Live contribution calendar
 
-- 🌐 Interested in cloud networking, monitoring, and Kubernetes.
-- ⚙️ Focused on pragmatic automation and dependable delivery workflows.
-- 🤝 Comfortable collaborating across engineering teams to turn operational needs into scalable solutions.
-
-## Core stack
-
-<p>
-  <img src="https://img.shields.io/badge/Terraform-2563EB?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Kubernetes-2563EB?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-2563EB?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2563EB?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<p align="center">
+  <img src="https://ghchart.rshah.org/38BDF8/guycalledavinash" alt="Avinash's GitHub contribution chart" />
 </p>
 
 ## Featured projects
@@ -34,8 +25,6 @@ I am a Cloud Engineer with over four years of DevOps and cloud-engineering exper
 | [Terraform](https://github.com/guycalledavinash/terraform) | Infrastructure as Code with Terraform. |
 | [CI/CD](https://github.com/guycalledavinash/ci-cd) | Continuous integration and delivery automation. |
 
-## Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/avinash97/)
-- ✍️ [Hashnode](https://hashnode.com/@guycalledavinash)
-- 📫 [cavinashreddy97@gmail.com](mailto:cavinashreddy97@gmail.com)
+<p align="center">
+  <sub>theme_02 // cloud-ops-terminal</sub>
+</p>
