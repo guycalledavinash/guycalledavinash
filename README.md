@@ -1,15 +1,30 @@
-<h1 align="center">Hello there, I'm Avinash</h1>
-<h3 align="center">I'm a DevOps/Cloud Engineer Passionate About Enhancing the Efficiency</h3>
-
-- 📫 How to reach me **cavinashreddy97@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/avinash__50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avinash__50" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/avinash97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avinash97/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Avinash+%7C+Cloud+Engineer;Networking+%C2%B7+Observability+%C2%B7+Kubernetes;Automating+reliable+cloud+platforms" alt="Typing introduction" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/avinash97/"><img src="https://img.shields.io/badge/LinkedIn-0EA5E9?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://hashnode.com/@guycalledavinash"><img src="https://img.shields.io/badge/Hashnode-2563EB?style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
+  <a href="mailto:cavinashreddy97@gmail.com"><img src="https://img.shields.io/badge/Email-38BDF8?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guycalledavinash&show_icons=true&locale=en&layout=compact" alt="guycalledavinash" /></p>
+<p align="center">
+  <img src="assets/cloud-ops-terminal.svg" width="100%" alt="Cloud operations terminal profile for Avinash" />
+</p>
+
+## Live contribution calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/38BDF8/guycalledavinash" alt="Avinash's GitHub contribution chart" />
+</p>
+
+## Featured projects
+
+| Project | Focus |
+| --- | --- |
+| [Terraform](https://github.com/guycalledavinash/terraform) | Infrastructure as Code with Terraform. |
+| [CI/CD](https://github.com/guycalledavinash/ci-cd) | Continuous integration and delivery automation. |
+
+<p align="center">
+  <sub>theme_02 // cloud-ops-terminal</sub>
+</p>
