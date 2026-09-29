@@ -12,6 +12,11 @@
   <img src="assets/cloud-ops-terminal.svg" width="100%" alt="Cloud operations terminal profile for Avinash" />
 </p>
 
+## Current focus
+
+- Building reliable cloud platforms with Kubernetes, Terraform, and CI/CD.
+- Strengthening observability and practical automation across cloud operations.
+
 ## Live contribution calendar
 
 <p align="center">
